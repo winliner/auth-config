@@ -1,4 +1,5 @@
 server:
+  context-path: /cbec
   port: 8070
   
 management:
