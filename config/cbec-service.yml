@@ -6,3 +6,6 @@ eureka:
     metadata-map:
       user.name: user
       user.password: password
+feign:  
+  hystrix:  
+    enabled: true
