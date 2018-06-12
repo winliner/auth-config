@@ -29,3 +29,4 @@ zuul:
     cbec-service:
       path: /cbec/**
       sensitiveHeaders:
+      serviceId: cbec-service
