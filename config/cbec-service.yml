@@ -1,5 +1,4 @@
 server:
-  context-path: /cbec
   port: 8070
 
 eureka:
