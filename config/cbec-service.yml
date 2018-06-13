@@ -8,4 +8,4 @@ eureka:
       user.password: password
 feign:  
   hystrix:  
-    enabled: true
+    enabled: false
