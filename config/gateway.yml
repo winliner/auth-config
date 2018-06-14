@@ -22,8 +22,8 @@ zuul:
   ignoredServices: '*'
   routes:
     auth-service:
-      path: /uaa/**
-      stripPrefix: false
+      path: /auth/**
+#      stripPrefix: false
       sensitiveHeaders:
     cbec-service:
       path: /cbec/**
